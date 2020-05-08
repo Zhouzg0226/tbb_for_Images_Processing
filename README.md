@@ -1,7 +1,7 @@
 # tbb_for_Images_Processing
 记录自己使用tbb加速的一些图像处理的基础算法
 
-VS2015 + OpenCV3.10    7672 x 7672 的图像;
+VS2015 + OpenCV3.10    ------------   7672 x 7672 的图像;
 
 01.RGB2Gray_tbb.cpp
 循环100次： 
