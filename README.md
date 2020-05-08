@@ -8,3 +8,7 @@ VS2015 + OpenCV3.10
 cvtColor(), 共耗时 51ms； 
 RGB2Y(),共耗时 77ms; 使用tbb加速的RGB2Y(), 共耗时 22ms;
 使用avx2的RGB2Y_6(),共耗时19ms, 使用 avx2+tbb的共耗时13.1ms;
+
+
+
+02.RGB2YUV.cpp
